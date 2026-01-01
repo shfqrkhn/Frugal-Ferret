@@ -2,6 +2,10 @@
 
 Welcome, clever saver! You've just discovered Frugal Ferret, your personal, private, and offline-first vault for managing your finances. Think of me as your trusty sidekick, helping you stash your nuts (or, you know, cash) in the smartest places possible.
 
+[**Live Demo**](https://shfqrkhn.github.io/Frugal-Ferret/dashboard)
+
+![Done Depot App Interface](https://raw.githubusercontent.com/shfqrkhn/Frugal-Ferret/refs/heads/main/%7BF555BF3A-C604-4988-BFF3-D63DAF9B8876%7D.png)
+
 ## Guiding Principles
 
 This isn't your typical finance app. Here's what makes Frugal Ferret special:
