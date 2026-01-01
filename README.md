@@ -4,7 +4,7 @@ Welcome, clever saver! You've just discovered Frugal Ferret, your personal, priv
 
 [**Live Demo**](https://shfqrkhn.github.io/Frugal-Ferret/dashboard)
 
-![Done Depot App Interface](https://raw.githubusercontent.com/shfqrkhn/Frugal-Ferret/refs/heads/main/%7BF555BF3A-C604-4988-BFF3-D63DAF9B8876%7D.png)
+![Screenshot](https://raw.githubusercontent.com/shfqrkhn/Frugal-Ferret/refs/heads/main/%7BF555BF3A-C604-4988-BFF3-D63DAF9B8876%7D.png)
 
 ## Guiding Principles
 
